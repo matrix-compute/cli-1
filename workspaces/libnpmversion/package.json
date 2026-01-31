@@ -32,13 +32,13 @@
   },
   "devDependencies": {
     "@npmcli/eslint-config": "^4.0.0",
-    "@npmcli/template-oss": "4.22.0",
+    "@npmcli/template-oss": "4.29.0",
     "require-inject": "^1.4.4",
     "tap": "^16.3.8"
   },
   "dependencies": {
     "@npmcli/git": "^5.0.7",
-    "@npmcli/run-script": "^8.1.0",
+    "@npmcli/run-script": "^9.0.2",
     "json-parse-even-better-errors": "^3.0.2",
     "proc-log": "^4.2.0",
     "semver": "^7.3.7"
